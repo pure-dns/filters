@@ -21,6 +21,7 @@ easyrpz \
   -i safesearch/bing \
   -i safesearch/google \
   -i safesearch/youtube \
+  -i safesearch/yandex \
   -e excludes/localhost \
   -o filter-family.rpz
 
