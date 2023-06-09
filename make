@@ -22,6 +22,8 @@ easyrpz \
   -i safesearch/google \
   -i safesearch/youtube \
   -i safesearch/yandex \
+  -i safesearch/duckduckgo \
+  -i safesearch/pixabay \
   -e excludes/localhost \
   -o filter-family.rpz
 
