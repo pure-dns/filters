@@ -15,4 +15,10 @@ jobs:
         with:
           ref: main
 
-      - run: ./make
+      - run: |
+          ./make
+          git config --local user.name "Frans Allen"
+          git config --local user.email "fransallen@users.noreply.github.com"
+          git add .
+          git commit -m "chore: daily routines"
+          git push
