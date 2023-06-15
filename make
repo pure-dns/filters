@@ -5,10 +5,8 @@ if command -v easyrpz > /dev/null; then
   echo "Command easyrpz is already installed!"
   else
   echo "Installing easyrpz to /usr/local/bin"
-  cd /tmp
-  curl -fsSO https://raw.githubusercontent.com/pure-dns/easyrpz/main/bin/easyrpz
-  chmod +x easyrpz
-  sudo mv easyrpz /usr/local/bin
+  curl -fsSo /usr/local/bin/easyrpz https://raw.githubusercontent.com/pure-dns/easyrpz/main/bin/easyrpz
+  chmod +x /usr/local/bin/easyrpz
   sudo chown $whoami:$whoami /usr/local/bin/easyrpz
   echo "Successfully installed easyrpz!"
 fi
