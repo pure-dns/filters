@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20241202   ;     serial
+           20241203   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -121880,6 +121880,7 @@ adpstatic.com IN A 0.0.0.0
 adreach.co IN A 0.0.0.0
 adreviewcamp.com IN A 0.0.0.0
 ads-link.net IN A 0.0.0.0
+ads.d21.media IN A 0.0.0.0
 ads.indosatooredoo.com IN A 0.0.0.0
 ads.telkomsel.com IN A 0.0.0.0
 adsbingo.com IN A 0.0.0.0
