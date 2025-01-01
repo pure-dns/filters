@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20241231   ;     serial
+           20250101   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -117634,6 +117634,7 @@ sumberiklan.com IN A 0.0.0.0
 suryaiklan.com IN A 0.0.0.0
 syndopop.com IN A 0.0.0.0
 teliad.com IN A 0.0.0.0
+thapi.aedi.ai IN A 0.0.0.0
 theclickers.net IN A 0.0.0.0
 tinggalklik.com IN A 0.0.0.0
 topklik.com IN A 0.0.0.0
