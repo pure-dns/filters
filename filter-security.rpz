@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20250102   ;     serial
+           20250103   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -117502,7 +117502,6 @@ accesstrade.co.id IN A 0.0.0.0
 ad-loupe.com IN A 0.0.0.0
 adbsys.icu IN A 0.0.0.0
 addesigner.com IN A 0.0.0.0
-adflazz.com IN A 0.0.0.0
 adnety.com IN A 0.0.0.0
 adpop-1.com IN A 0.0.0.0
 adpstatic.com IN A 0.0.0.0
@@ -117588,7 +117587,6 @@ luven.xyz IN A 0.0.0.0
 masteriklan.net IN A 0.0.0.0
 mediab.uy IN A 0.0.0.0
 mesiniklan.andipublisher.com IN A 0.0.0.0
-mybannermaker.com IN A 0.0.0.0
 newsupdatewe.info IN A 0.0.0.0
 offdeck.telkomsel.com IN A 0.0.0.0
 offer.popsads.link IN A 0.0.0.0
@@ -117632,7 +117630,6 @@ situsiklanbaris.com IN A 0.0.0.0
 spanuletubings.com IN A 0.0.0.0
 sumberiklan.com IN A 0.0.0.0
 suryaiklan.com IN A 0.0.0.0
-syndopop.com IN A 0.0.0.0
 teliad.com IN A 0.0.0.0
 thapi.aedi.ai IN A 0.0.0.0
 theclickers.net IN A 0.0.0.0
@@ -117670,7 +117667,6 @@ bcajjtbzmdrl.com IN A 0.0.0.0
 bubblekraken.com IN A 0.0.0.0
 cea9d3d4f74fb831.com IN A 0.0.0.0
 chidsimp.com IN A 0.0.0.0
-chitchooms.net IN A 0.0.0.0
 chqspuonctkgz.com IN A 0.0.0.0
 craydark.pw IN A 0.0.0.0
 curoax.com IN A 0.0.0.0
@@ -117707,7 +117703,6 @@ juruiklan.com IN A 0.0.0.0
 kdbumyha.com IN A 0.0.0.0
 kozoysnsx.com IN A 0.0.0.0
 l9tdhe6.com IN A 0.0.0.0
-laluvygy.com IN A 0.0.0.0
 ld82ydd.com IN A 0.0.0.0
 leoceran.pw IN A 0.0.0.0
 lpaizureik.com IN A 0.0.0.0
@@ -117720,7 +117715,6 @@ naetoris.pw IN A 0.0.0.0
 nvqonvfylkxdjc.com IN A 0.0.0.0
 oardjnay.com IN A 0.0.0.0
 octafx.com IN A 0.0.0.0
-olenation.org IN A 0.0.0.0
 olkrzytv.com IN A 0.0.0.0
 olmsoneenh.info IN A 0.0.0.0
 ourtherss.top IN A 0.0.0.0
@@ -117741,7 +117735,6 @@ tinfunshe.club IN A 0.0.0.0
 torflegorb.com IN A 0.0.0.0
 trendlope.com IN A 0.0.0.0
 trvwjyjgkgeagd.com IN A 0.0.0.0
-tsyndolls.com IN A 0.0.0.0
 tummiarunzpf.com IN A 0.0.0.0
 uamrnaakv.com IN A 0.0.0.0
 ueuodgnrhb.com IN A 0.0.0.0
@@ -117753,7 +117746,6 @@ vrewpywootyu.com IN A 0.0.0.0
 wbaogaqvrukprx.com IN A 0.0.0.0
 whjibbprhng.com IN A 0.0.0.0
 wkuave.com IN A 0.0.0.0
-xosbkqblniusql.com IN A 0.0.0.0
 ys3e965d.top IN A 0.0.0.0
 zukxd6fkxqn.com IN A 0.0.0.0
 zuyejecgb.com IN A 0.0.0.0
