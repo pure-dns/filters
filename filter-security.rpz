@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20250211   ;     serial
+           20250212   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -121453,7 +121453,6 @@ iklanumum.com IN A 0.0.0.0
 indoadsnet.com IN A 0.0.0.0
 indobanner.com IN A 0.0.0.0
 indofreeads.com IN A 0.0.0.0
-indoleads.com IN A 0.0.0.0
 istana-impian.com IN A 0.0.0.0
 istana-impian2.com IN A 0.0.0.0
 istanaiklan.com IN A 0.0.0.0
