@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260627   ;     serial
+           20260628   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -83887,6 +83887,7 @@ see-work.info IN A 0.0.0.0
 serbada.com IN A 0.0.0.0
 shiokambing2.com IN A 0.0.0.0
 sitti.co.id IN A 0.0.0.0
+tadex.id IN A 0.0.0.0
 teliad.com IN A 0.0.0.0
 thapi.aedi.ai IN A 0.0.0.0
 theclickers.net IN A 0.0.0.0
@@ -83910,6 +83911,7 @@ dairouzy.net IN A 0.0.0.0
 doathair.com IN A 0.0.0.0
 edomz.com IN A 0.0.0.0
 filebanner.com IN A 0.0.0.0
+fj.fatsoeslandmil.com IN A 0.0.0.0
 flexterkita.com IN A 0.0.0.0
 fnasmpygwa.com IN A 0.0.0.0
 gaslah.my.id IN A 0.0.0.0
@@ -83925,6 +83927,7 @@ sebar.idblognetwork.com IN A 0.0.0.0
 shqbsdjatunl.com IN A 0.0.0.0
 sumberiklan.com IN A 0.0.0.0
 vkwaeo.com IN A 0.0.0.0
+wk.locatiocorms.com IN A 0.0.0.0
 c-stat.eu IN A 0.0.0.0
 moneyfree.co IN A 0.0.0.0
 track.aptitudemedia.co IN A 0.0.0.0
