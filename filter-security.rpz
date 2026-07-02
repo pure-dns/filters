@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260701   ;     serial
+           20260702   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -83024,6 +83024,7 @@ adplus.co.id IN A 0.0.0.0
 afbcashidr.com IN A 0.0.0.0
 auredzeon.com IN A 0.0.0.0
 baliadv.com IN A 0.0.0.0
+bondeddarkenedswerve.com IN A 0.0.0.0
 brand.ad IN A 0.0.0.0
 caribanner.bid IN A 0.0.0.0
 dairouzy.net IN A 0.0.0.0
@@ -83045,6 +83046,7 @@ realwap.net IN A 0.0.0.0
 sebar.idblognetwork.com IN A 0.0.0.0
 shqbsdjatunl.com IN A 0.0.0.0
 sumberiklan.com IN A 0.0.0.0
+villainoussession.com IN A 0.0.0.0
 vkwaeo.com IN A 0.0.0.0
 wk.locatiocorms.com IN A 0.0.0.0
 c-stat.eu IN A 0.0.0.0
