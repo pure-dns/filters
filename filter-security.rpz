@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260703   ;     serial
+           20260704   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
