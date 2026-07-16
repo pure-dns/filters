@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260715   ;     serial
+           20260716   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -76114,14 +76114,31 @@ shqbsdjatunl.com IN A 0.0.0.0
 sumberiklan.com IN A 0.0.0.0
 villainoussession.com IN A 0.0.0.0
 vkwaeo.com IN A 0.0.0.0
+akseskaiko.cam IN A 0.0.0.0
 archivehub.com.ng IN A 0.0.0.0
+bergurukecina.fun IN A 0.0.0.0
 c-stat.eu IN A 0.0.0.0
+cdnfgo.xyz IN A 0.0.0.0
+goid.space IN A 0.0.0.0
+goratu.site IN A 0.0.0.0
+injd.site IN A 0.0.0.0
 inshorturl.com IN A 0.0.0.0
+kegz.site IN A 0.0.0.0
+menujupenta.site IN A 0.0.0.0
 moneyfree.co IN A 0.0.0.0
+nf.diamberproetid.com IN A 0.0.0.0
+orangarab.fun IN A 0.0.0.0
+ransplay-io.com IN A 0.0.0.0
+refpa3665.com IN A 0.0.0.0
 safelinkearn.com IN A 0.0.0.0
+sbobet.host IN A 0.0.0.0
+sv.sleeklyyallaer.com IN A 0.0.0.0
+tambakbet.vip IN A 0.0.0.0
 track.aptitudemedia.co IN A 0.0.0.0
 track.zerofriend.com IN A 0.0.0.0
 tracker.lazada.co.id IN A 0.0.0.0
 trackingclick.net IN A 0.0.0.0
 traffic-monetizer.com IN A 0.0.0.0
+ufo777link.com IN A 0.0.0.0
 vm.ydstinkle.com IN A 0.0.0.0
+wg87vip.bet IN A 0.0.0.0
