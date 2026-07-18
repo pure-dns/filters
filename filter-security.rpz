@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260717   ;     serial
+           20260718   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -76137,6 +76137,7 @@ safelinkearn.com IN A 0.0.0.0
 sbobet.host IN A 0.0.0.0
 sv.sleeklyyallaer.com IN A 0.0.0.0
 tambakbet.vip IN A 0.0.0.0
+tantegacor88.link IN A 0.0.0.0
 track.aptitudemedia.co IN A 0.0.0.0
 track.zerofriend.com IN A 0.0.0.0
 tracker.lazada.co.id IN A 0.0.0.0
