@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260722   ;     serial
+           20260723   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -90067,8 +90067,6 @@ shqbsdjatunl.com IN A 0.0.0.0
 sumberiklan.com IN A 0.0.0.0
 villainoussession.com IN A 0.0.0.0
 vkwaeo.com IN A 0.0.0.0
-a.magsrv.com IN A 0.0.0.0
-a.pemsrv.com IN A 0.0.0.0
 akseskaiko.cam IN A 0.0.0.0
 archivehub.com.ng IN A 0.0.0.0
 bergurukecina.fun IN A 0.0.0.0
@@ -90079,7 +90077,6 @@ goratu.site IN A 0.0.0.0
 injd.site IN A 0.0.0.0
 inshorturl.com IN A 0.0.0.0
 kegz.site IN A 0.0.0.0
-mascarapersonality.com IN A 0.0.0.0
 menujupenta.site IN A 0.0.0.0
 moneyfree.co IN A 0.0.0.0
 nf.diamberproetid.com IN A 0.0.0.0
