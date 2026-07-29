@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260728   ;     serial
+           20260729   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -181934,6 +181934,7 @@ kingtogel.com IN A 0.0.0.0
 launchpoker.com IN A 0.0.0.0
 lazacasino.com IN A 0.0.0.0
 linkjalur.vip IN A 0.0.0.0
+lockerimage.com IN A 0.0.0.0
 login.ashk7.com IN A 0.0.0.0
 lotospoker.com IN A 0.0.0.0
 luckyriverpoker.com IN A 0.0.0.0
@@ -182026,6 +182027,7 @@ situsagenjudi.com IN A 0.0.0.0
 situstogelonline.com IN A 0.0.0.0
 socialprooff.com IN A 0.0.0.0
 speedcount.co IN A 0.0.0.0
+streaming.desakemuning.online IN A 0.0.0.0
 sunpoker.com IN A 0.0.0.0
 surgajudi.com IN A 0.0.0.0
 suvtub.id IN A 0.0.0.0
