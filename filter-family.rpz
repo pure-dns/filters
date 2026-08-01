@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260731   ;     serial
+           20260801   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -181847,6 +181847,7 @@ ufo777link.com IN A 0.0.0.0
 vm.ydstinkle.com IN A 0.0.0.0
 wg87vip.bet IN A 0.0.0.0
 32redpoker.com IN A 0.0.0.0
+4vbbb.com IN A 0.0.0.0
 88togel.com IN A 0.0.0.0
 actionpoker.com IN A 0.0.0.0
 adroitdeceitcongestion.com IN A 0.0.0.0
@@ -181865,6 +181866,8 @@ areataruhan.com IN A 0.0.0.0
 arenajudi.com IN A 0.0.0.0
 asiapoker777.com IN A 0.0.0.0
 astonwin.org IN A 0.0.0.0
+auredzetw.com IN A 0.0.0.0
+axes88.org IN A 0.0.0.0
 bandarjuditogel.com IN A 0.0.0.0
 baron777premium.com IN A 0.0.0.0
 bbm88.org IN A 0.0.0.0
@@ -182005,8 +182008,10 @@ promosi.mul7.com IN A 0.0.0.0
 promosi.mwn7.com IN A 0.0.0.0
 promosi.snsa7.com IN A 0.0.0.0
 promosi.wfgg7.com IN A 0.0.0.0
+pub-ee3a5bccda2d49c7bbc62bd60d648707.r2.dev IN A 0.0.0.0
 pusatjudibola.com IN A 0.0.0.0
 pusattaruhan.com IN A 0.0.0.0
+pvpmetavip.com IN A 0.0.0.0
 rajapoker88.com IN A 0.0.0.0
 rajatogel.biz IN A 0.0.0.0
 rajatogel.com IN A 0.0.0.0
@@ -182024,6 +182029,8 @@ serverx16.online IN A 0.0.0.0
 sharkpokertour.com IN A 0.0.0.0
 shopnoit.com IN A 0.0.0.0
 situsagenjudi.com IN A 0.0.0.0
+situsdepe4d.site IN A 0.0.0.0
+situsdepe4d.space IN A 0.0.0.0
 situstogelonline.com IN A 0.0.0.0
 socialprooff.com IN A 0.0.0.0
 speedcount.co IN A 0.0.0.0
@@ -182032,10 +182039,12 @@ sunpoker.com IN A 0.0.0.0
 surgajudi.com IN A 0.0.0.0
 suvtub.id IN A 0.0.0.0
 switchpoker.com IN A 0.0.0.0
+t2m.io IN A 0.0.0.0
 tangkas99.com IN A 0.0.0.0
 taruhanbetting.com IN A 0.0.0.0
 taruhancasino.com IN A 0.0.0.0
 taruhanku.com IN A 0.0.0.0
+temannonton.store IN A 0.0.0.0
 texaspokercc.com IN A 0.0.0.0
 theedgepoker.com IN A 0.0.0.0
 togel2.xtgem.com IN A 0.0.0.0
@@ -182060,6 +182069,7 @@ toto13.com IN A 0.0.0.0
 totobet4d.com IN A 0.0.0.0
 totomaster.com IN A 0.0.0.0
 truepoker.com IN A 0.0.0.0
+tuanmuda88baja.com IN A 0.0.0.0
 tzetzessmoking.com IN A 0.0.0.0
 undiantogel.com IN A 0.0.0.0
 videopoker.com IN A 0.0.0.0
