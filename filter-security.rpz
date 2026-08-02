@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260801   ;     serial
+           20260802   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -96895,6 +96895,7 @@ bergurukecina.fun IN A 0.0.0.0
 bisnis4d.bio IN A 0.0.0.0
 c-stat.eu IN A 0.0.0.0
 cdnfgo.xyz IN A 0.0.0.0
+code.global.giraff.io IN A 0.0.0.0
 enakslot.bio IN A 0.0.0.0
 gaza-88.com IN A 0.0.0.0
 goid.space IN A 0.0.0.0

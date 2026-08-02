@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260801   ;     serial
+           20260802   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -181809,6 +181809,7 @@ bergurukecina.fun IN A 0.0.0.0
 bisnis4d.bio IN A 0.0.0.0
 c-stat.eu IN A 0.0.0.0
 cdnfgo.xyz IN A 0.0.0.0
+code.global.giraff.io IN A 0.0.0.0
 enakslot.bio IN A 0.0.0.0
 gaza-88.com IN A 0.0.0.0
 goid.space IN A 0.0.0.0
@@ -181867,6 +181868,7 @@ arenajudi.com IN A 0.0.0.0
 asiapoker777.com IN A 0.0.0.0
 astonwin.org IN A 0.0.0.0
 auredzetw.com IN A 0.0.0.0
+autocst.site IN A 0.0.0.0
 axes88.org IN A 0.0.0.0
 bandarjuditogel.com IN A 0.0.0.0
 baron777premium.com IN A 0.0.0.0
@@ -181911,7 +181913,9 @@ europoker.com IN A 0.0.0.0
 everypoker.com IN A 0.0.0.0
 feltpoker.com IN A 0.0.0.0
 file-assist.xuzor.com IN A 0.0.0.0
+gembul.xyz IN A 0.0.0.0
 gentingpoker.com IN A 0.0.0.0
+glamorous-gate.com IN A 0.0.0.0
 goldentigerpoker.com IN A 0.0.0.0
 goldentoto.com IN A 0.0.0.0
 goldtoto.com IN A 0.0.0.0
@@ -181920,6 +181924,7 @@ hokitogel.com IN A 0.0.0.0
 homepokergames.com IN A 0.0.0.0
 hotpokerbonus.com IN A 0.0.0.0
 houseoftoto.com IN A 0.0.0.0
+infamous-maximum.com IN A 0.0.0.0
 infopojokbet.store IN A 0.0.0.0
 inipoker.com IN A 0.0.0.0
 investopedia.today IN A 0.0.0.0
@@ -181954,6 +181959,7 @@ misterindo.net IN A 0.0.0.0
 mistertogel.com IN A 0.0.0.0
 mitrapoker.com IN A 0.0.0.0
 mobilepokerclub.com IN A 0.0.0.0
+movd21.com IN A 0.0.0.0
 muchospoker.com IN A 0.0.0.0
 nag303.xyz IN A 0.0.0.0
 naga-poker.com IN A 0.0.0.0
@@ -182044,6 +182050,7 @@ tangkas99.com IN A 0.0.0.0
 taruhanbetting.com IN A 0.0.0.0
 taruhancasino.com IN A 0.0.0.0
 taruhanku.com IN A 0.0.0.0
+teeming-comfortable.com IN A 0.0.0.0
 temannonton.store IN A 0.0.0.0
 texaspokercc.com IN A 0.0.0.0
 theedgepoker.com IN A 0.0.0.0
@@ -182082,6 +182089,7 @@ websitejudi.com IN A 0.0.0.0
 whelmlegge.com IN A 0.0.0.0
 wigobet.com IN A 0.0.0.0
 win25keren.store IN A 0.0.0.0
+wprediscache.com IN A 0.0.0.0
 xjudi.com IN A 0.0.0.0
 yourpokercash.com IN A 0.0.0.0
 yu.befitkersey.com IN A 0.0.0.0
