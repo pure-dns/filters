@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260809   ;     serial
+           20260810   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -184766,7 +184766,6 @@ feltpoker.com IN A 0.0.0.0
 file-assist.xuzor.com IN A 0.0.0.0
 gembul.xyz IN A 0.0.0.0
 gentingpoker.com IN A 0.0.0.0
-glamorous-gate.com IN A 0.0.0.0
 goldentigerpoker.com IN A 0.0.0.0
 goldentoto.com IN A 0.0.0.0
 goldtoto.com IN A 0.0.0.0
@@ -184803,7 +184802,6 @@ markastogel.com IN A 0.0.0.0
 masterjudi.blog.com IN A 0.0.0.0
 masterjudi.com IN A 0.0.0.0
 maxbetqq.net IN A 0.0.0.0
-mayzaent.com IN A 0.0.0.0
 mickeypoker.com IN A 0.0.0.0
 mintedpoker.com IN A 0.0.0.0
 misterindo.net IN A 0.0.0.0
@@ -184901,7 +184899,6 @@ tangkas99.com IN A 0.0.0.0
 taruhanbetting.com IN A 0.0.0.0
 taruhancasino.com IN A 0.0.0.0
 taruhanku.com IN A 0.0.0.0
-teeming-comfortable.com IN A 0.0.0.0
 temannonton.store IN A 0.0.0.0
 texaspokercc.com IN A 0.0.0.0
 theedgepoker.com IN A 0.0.0.0
