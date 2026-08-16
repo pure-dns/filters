@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260815   ;     serial
+           20260816   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -183969,13 +183969,10 @@ www.zeus-web.net IN A 0.0.0.0
 www2.giga-jp.com IN A 0.0.0.0
 yamidas.yamiboard.com IN A 0.0.0.0
 yamigama.com IN A 0.0.0.0
-188affiliates.com IN A 0.0.0.0
 accesstrade.co.id IN A 0.0.0.0
 ad-loupe.com IN A 0.0.0.0
 addesigner.com IN A 0.0.0.0
 adeumssp.com IN A 0.0.0.0
-adnety.com IN A 0.0.0.0
-adpop-1.com IN A 0.0.0.0
 adreach.co IN A 0.0.0.0
 ads.d21.media IN A 0.0.0.0
 ads.indosatooredoo.com IN A 0.0.0.0
@@ -184016,10 +184013,8 @@ iklanoke.com IN A 0.0.0.0
 iklantelevisi.com IN A 0.0.0.0
 iklantext.com IN A 0.0.0.0
 iklanumum.com IN A 0.0.0.0
-indobanner.com IN A 0.0.0.0
 istanaimpian1.com IN A 0.0.0.0
 istanaimpian2.com IN A 0.0.0.0
-istanaimpian3.com IN A 0.0.0.0
 jagopromo.com IN A 0.0.0.0
 jasaiklan.com IN A 0.0.0.0
 klikajadeh.com IN A 0.0.0.0
@@ -184027,7 +184022,6 @@ luckyads.com IN A 0.0.0.0
 mesiniklan.andipublisher.com IN A 0.0.0.0
 offdeck.telkomsel.com IN A 0.0.0.0
 openadserving.com IN A 0.0.0.0
-padssup.com IN A 0.0.0.0
 paidforfree.com IN A 0.0.0.0
 pasangiklan.com IN A 0.0.0.0
 pondokiklan.com IN A 0.0.0.0
@@ -184050,16 +184044,13 @@ u-ad.info IN A 0.0.0.0
 uadexchange.com IN A 0.0.0.0
 useads.com IN A 0.0.0.0
 webiklan.com IN A 0.0.0.0
-64p3am9x95ct.com IN A 0.0.0.0
 9eb10b7a3d04a.com IN A 0.0.0.0
 a.magsrv.com IN A 0.0.0.0
 adplus.co.id IN A 0.0.0.0
 afbcashidr.com IN A 0.0.0.0
 auredzeon.com IN A 0.0.0.0
-baliadv.com IN A 0.0.0.0
 bondeddarkenedswerve.com IN A 0.0.0.0
 brand.ad IN A 0.0.0.0
-caribanner.bid IN A 0.0.0.0
 dairouzy.net IN A 0.0.0.0
 doathair.com IN A 0.0.0.0
 edomz.com IN A 0.0.0.0
@@ -184074,12 +184065,8 @@ lokeriklan.com IN A 0.0.0.0
 mousheen.net IN A 0.0.0.0
 octafx.com IN A 0.0.0.0
 poweredby.jads.co IN A 0.0.0.0
-promobagus.com IN A 0.0.0.0
-pusatiklan.com IN A 0.0.0.0
 realwap.net IN A 0.0.0.0
 sebar.idblognetwork.com IN A 0.0.0.0
-shqbsdjatunl.com IN A 0.0.0.0
-sumberiklan.com IN A 0.0.0.0
 villainoussession.com IN A 0.0.0.0
 vkwaeo.com IN A 0.0.0.0
 388hero.bio IN A 0.0.0.0
@@ -184100,7 +184087,6 @@ inshorturl.com IN A 0.0.0.0
 kegz.site IN A 0.0.0.0
 klik.zeus.fun IN A 0.0.0.0
 klik4.me IN A 0.0.0.0
-luxury111.bio IN A 0.0.0.0
 menujupenta.site IN A 0.0.0.0
 moneyfree.co IN A 0.0.0.0
 nf.diamberproetid.com IN A 0.0.0.0
@@ -184135,10 +184121,6 @@ actionpoker.com IN A 0.0.0.0
 adroitdeceitcongestion.com IN A 0.0.0.0
 ads.save21.site IN A 0.0.0.0
 afapoker.com IN A 0.0.0.0
-agenjudibolabet.com IN A 0.0.0.0
-agenjudiresmi.com IN A 0.0.0.0
-agenjuditerbesar.com IN A 0.0.0.0
-agentogel4d.com IN A 0.0.0.0
 ajar-poet.com IN A 0.0.0.0
 allvegaspoker.com IN A 0.0.0.0
 anaktogel.com IN A 0.0.0.0
@@ -184153,7 +184135,6 @@ autocst.site IN A 0.0.0.0
 axes88.org IN A 0.0.0.0
 badylenicesist.com IN A 0.0.0.0
 bandarjuditogel.com IN A 0.0.0.0
-baron777premium.com IN A 0.0.0.0
 bbm88.org IN A 0.0.0.0
 bebasjudi.com IN A 0.0.0.0
 belitogel.com IN A 0.0.0.0
@@ -184161,12 +184142,10 @@ beritaagenjudi.com IN A 0.0.0.0
 bio.wgauhh.xyz IN A 0.0.0.0
 biotogel.com IN A 0.0.0.0
 blindbetpoker.com IN A 0.0.0.0
-blogjudi.com IN A 0.0.0.0
 bojo.rajatravel.online IN A 0.0.0.0
 bolakami-banner-tracker.bolakami.workers.dev IN A 0.0.0.0
 breedsmuteexams.com IN A 0.0.0.0
 bursajudibola.com IN A 0.0.0.0
-caramenangtaruhanbola.com IN A 0.0.0.0
 caramenangtogel.com IN A 0.0.0.0
 casinoclubpoker.com IN A 0.0.0.0
 cdn.assetcsn.site IN A 0.0.0.0
@@ -184178,7 +184157,6 @@ cutlink.now IN A 0.0.0.0
 dafapoker.com IN A 0.0.0.0
 daftar.situsngacir.com IN A 0.0.0.0
 daftarjudibola.com IN A 0.0.0.0
-daftarjudicasino.com IN A 0.0.0.0
 daftarpokeronline.com IN A 0.0.0.0
 daspoker.com IN A 0.0.0.0
 data.masbulo.com IN A 0.0.0.0
@@ -184229,7 +184207,6 @@ linkjalur.vip IN A 0.0.0.0
 lockerimage.com IN A 0.0.0.0
 login.ashk7.com IN A 0.0.0.0
 lotospoker.com IN A 0.0.0.0
-luckyriverpoker.com IN A 0.0.0.0
 macory.com IN A 0.0.0.0
 mansionpoker.com IN A 0.0.0.0
 markastogel.com IN A 0.0.0.0
@@ -184243,7 +184220,6 @@ mistertogel.com IN A 0.0.0.0
 mitrapoker.com IN A 0.0.0.0
 mobilepokerclub.com IN A 0.0.0.0
 movd21.com IN A 0.0.0.0
-muchospoker.com IN A 0.0.0.0
 nag303.xyz IN A 0.0.0.0
 naga-poker.com IN A 0.0.0.0
 nagapoker.biz IN A 0.0.0.0
@@ -184255,11 +184231,9 @@ nztoto.com IN A 0.0.0.0
 obobet.net IN A 0.0.0.0
 offwardscraps.com IN A 0.0.0.0
 online5poker.com IN A 0.0.0.0
-onlineactionpoker.com IN A 0.0.0.0
 onlinepoker66.com IN A 0.0.0.0
 opoxv.com IN A 0.0.0.0
 pacificpoker.com IN A 0.0.0.0
-pandujudionline.com IN A 0.0.0.0
 pemsrv.com IN A 0.0.0.0
 pkr-88.com IN A 0.0.0.0
 planettoto.com IN A 0.0.0.0
@@ -184291,7 +184265,6 @@ pokervip.com IN A 0.0.0.0
 pondokpoker.com IN A 0.0.0.0
 pondoktogel.com IN A 0.0.0.0
 powderencouraged.com IN A 0.0.0.0
-prediksitoptogel.com IN A 0.0.0.0
 promosi.bwnn7.com IN A 0.0.0.0
 promosi.ctrr7.com IN A 0.0.0.0
 promosi.hkwn7.com IN A 0.0.0.0
@@ -184301,10 +184274,8 @@ promosi.snsa7.com IN A 0.0.0.0
 promosi.wfgg7.com IN A 0.0.0.0
 pub-ee3a5bccda2d49c7bbc62bd60d648707.r2.dev IN A 0.0.0.0
 pusatjudibola.com IN A 0.0.0.0
-pusattaruhan.com IN A 0.0.0.0
 pvpmetavip.com IN A 0.0.0.0
 rajapoker88.com IN A 0.0.0.0
-rajatogel.biz IN A 0.0.0.0
 rajatogel.com IN A 0.0.0.0
 rajatoto.com IN A 0.0.0.0
 rarelypunenhancements.com IN A 0.0.0.0
@@ -184319,13 +184290,11 @@ semarangtogel.com IN A 0.0.0.0
 serverx16.online IN A 0.0.0.0
 sharkpokertour.com IN A 0.0.0.0
 shopnoit.com IN A 0.0.0.0
-situsagenjudi.com IN A 0.0.0.0
 situsdepe4d.site IN A 0.0.0.0
 situsdepe4d.space IN A 0.0.0.0
 situstogelonline.com IN A 0.0.0.0
 socialprooff.com IN A 0.0.0.0
 speedcount.co IN A 0.0.0.0
-streaming.desakemuning.online IN A 0.0.0.0
 sunpoker.com IN A 0.0.0.0
 surgajudi.com IN A 0.0.0.0
 suvtub.id IN A 0.0.0.0

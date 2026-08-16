@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260815   ;     serial
+           20260816   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -98958,13 +98958,10 @@ zmedia.com IN A 0.0.0.0
 zonewedgeshaft.com IN A 0.0.0.0
 zpu.samsungelectronics.com IN A 0.0.0.0
 zqtk.net IN A 0.0.0.0
-188affiliates.com IN A 0.0.0.0
 accesstrade.co.id IN A 0.0.0.0
 ad-loupe.com IN A 0.0.0.0
 addesigner.com IN A 0.0.0.0
 adeumssp.com IN A 0.0.0.0
-adnety.com IN A 0.0.0.0
-adpop-1.com IN A 0.0.0.0
 adreach.co IN A 0.0.0.0
 ads.d21.media IN A 0.0.0.0
 ads.indosatooredoo.com IN A 0.0.0.0
@@ -99005,10 +99002,8 @@ iklanoke.com IN A 0.0.0.0
 iklantelevisi.com IN A 0.0.0.0
 iklantext.com IN A 0.0.0.0
 iklanumum.com IN A 0.0.0.0
-indobanner.com IN A 0.0.0.0
 istanaimpian1.com IN A 0.0.0.0
 istanaimpian2.com IN A 0.0.0.0
-istanaimpian3.com IN A 0.0.0.0
 jagopromo.com IN A 0.0.0.0
 jasaiklan.com IN A 0.0.0.0
 klikajadeh.com IN A 0.0.0.0
@@ -99016,7 +99011,6 @@ luckyads.com IN A 0.0.0.0
 mesiniklan.andipublisher.com IN A 0.0.0.0
 offdeck.telkomsel.com IN A 0.0.0.0
 openadserving.com IN A 0.0.0.0
-padssup.com IN A 0.0.0.0
 paidforfree.com IN A 0.0.0.0
 pasangiklan.com IN A 0.0.0.0
 pondokiklan.com IN A 0.0.0.0
@@ -99040,16 +99034,13 @@ u-on.eu IN A 0.0.0.0
 uadexchange.com IN A 0.0.0.0
 useads.com IN A 0.0.0.0
 webiklan.com IN A 0.0.0.0
-64p3am9x95ct.com IN A 0.0.0.0
 9eb10b7a3d04a.com IN A 0.0.0.0
 a.magsrv.com IN A 0.0.0.0
 adplus.co.id IN A 0.0.0.0
 afbcashidr.com IN A 0.0.0.0
 auredzeon.com IN A 0.0.0.0
-baliadv.com IN A 0.0.0.0
 bondeddarkenedswerve.com IN A 0.0.0.0
 brand.ad IN A 0.0.0.0
-caribanner.bid IN A 0.0.0.0
 dairouzy.net IN A 0.0.0.0
 doathair.com IN A 0.0.0.0
 edomz.com IN A 0.0.0.0
@@ -99064,12 +99055,8 @@ lokeriklan.com IN A 0.0.0.0
 mousheen.net IN A 0.0.0.0
 octafx.com IN A 0.0.0.0
 poweredby.jads.co IN A 0.0.0.0
-promobagus.com IN A 0.0.0.0
-pusatiklan.com IN A 0.0.0.0
 realwap.net IN A 0.0.0.0
 sebar.idblognetwork.com IN A 0.0.0.0
-shqbsdjatunl.com IN A 0.0.0.0
-sumberiklan.com IN A 0.0.0.0
 villainoussession.com IN A 0.0.0.0
 vkwaeo.com IN A 0.0.0.0
 388hero.bio IN A 0.0.0.0
@@ -99090,7 +99077,6 @@ inshorturl.com IN A 0.0.0.0
 kegz.site IN A 0.0.0.0
 klik.zeus.fun IN A 0.0.0.0
 klik4.me IN A 0.0.0.0
-luxury111.bio IN A 0.0.0.0
 menujupenta.site IN A 0.0.0.0
 moneyfree.co IN A 0.0.0.0
 nf.diamberproetid.com IN A 0.0.0.0
