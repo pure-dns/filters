@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260912   ;     serial
+           20260913   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -165376,6 +165376,7 @@ dutatoto.com IN A 0.0.0.0
 dwabt.pro IN A 0.0.0.0
 dwagg.me IN A 0.0.0.0
 emputogel.com IN A 0.0.0.0
+eu.kinggroup.buzz IN A 0.0.0.0
 europoker.com IN A 0.0.0.0
 everypoker.com IN A 0.0.0.0
 exacdn.com IN A 0.0.0.0
@@ -165511,6 +165512,7 @@ tangkas99.com IN A 0.0.0.0
 taruhanbetting.com IN A 0.0.0.0
 taruhancasino.com IN A 0.0.0.0
 taruhanku.com IN A 0.0.0.0
+te.domineehexer.com IN A 0.0.0.0
 temannonton.store IN A 0.0.0.0
 texaspokercc.com IN A 0.0.0.0
 theedgepoker.com IN A 0.0.0.0
