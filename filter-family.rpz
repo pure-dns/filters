@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20260919   ;     serial
+           20260920   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -165608,7 +165608,6 @@ useads.com IN A 0.0.0.0
 webiklan.com IN A 0.0.0.0
 9eb10b7a3d04a.com IN A 0.0.0.0
 a.magsrv.com IN A 0.0.0.0
-adplus.co.id IN A 0.0.0.0
 afbcashidr.com IN A 0.0.0.0
 auredzeon.com IN A 0.0.0.0
 bondeddarkenedswerve.com IN A 0.0.0.0
@@ -165619,7 +165618,6 @@ edomz.com IN A 0.0.0.0
 filebanner.com IN A 0.0.0.0
 fj.fatsoeslandmil.com IN A 0.0.0.0
 flexterkita.com IN A 0.0.0.0
-fnasmpygwa.com IN A 0.0.0.0
 gaslah.my.id IN A 0.0.0.0
 iwtserve.com IN A 0.0.0.0
 jagoiklan.com IN A 0.0.0.0
@@ -165674,7 +165672,6 @@ track.aptitudemedia.co IN A 0.0.0.0
 track.zerofriend.com IN A 0.0.0.0
 tracker.lazada.co.id IN A 0.0.0.0
 trackingclick.net IN A 0.0.0.0
-traffic-monetizer.com IN A 0.0.0.0
 ufo777link.com IN A 0.0.0.0
 vm.ydstinkle.com IN A 0.0.0.0
 wg87vip.bet IN A 0.0.0.0
@@ -165683,7 +165680,6 @@ wg87vip.bet IN A 0.0.0.0
 88togel.com IN A 0.0.0.0
 actionpoker.com IN A 0.0.0.0
 adroitdeceitcongestion.com IN A 0.0.0.0
-ads.save21.site IN A 0.0.0.0
 afapoker.com IN A 0.0.0.0
 ajar-poet.com IN A 0.0.0.0
 allvegaspoker.com IN A 0.0.0.0
