@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20261009   ;     serial
+           20261010   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -72631,8 +72631,7 @@ realwap.net IN A 0.0.0.0
 sebar.idblognetwork.com IN A 0.0.0.0
 villainoussession.com IN A 0.0.0.0
 vkwaeo.com IN A 0.0.0.0
-388hero.bio IN A 0.0.0.0
-akseskaiko.cam IN A 0.0.0.0
+access.kaiko.cam IN A 0.0.0.0
 archivehub.com.ng IN A 0.0.0.0
 bandarxl.bio IN A 0.0.0.0
 bergurukecina.fun IN A 0.0.0.0
@@ -72647,10 +72646,8 @@ goid.space IN A 0.0.0.0
 goratu.site IN A 0.0.0.0
 injd.site IN A 0.0.0.0
 inshorturl.com IN A 0.0.0.0
-kegz.site IN A 0.0.0.0
 klik.zeus.fun IN A 0.0.0.0
 klik4.me IN A 0.0.0.0
-menujupenta.site IN A 0.0.0.0
 moneyfree.co IN A 0.0.0.0
 nf.diamberproetid.com IN A 0.0.0.0
 orangarab.fun IN A 0.0.0.0
@@ -72664,7 +72661,6 @@ rts.gdn IN A 0.0.0.0
 safelinkearn.com IN A 0.0.0.0
 sbobet.host IN A 0.0.0.0
 scripts.jixie.media IN A 0.0.0.0
-shortbioo.com IN A 0.0.0.0
 statics1.tceru134gsur.ru IN A 0.0.0.0
 sv.sleeklyyallaer.com IN A 0.0.0.0
 tambakbet.vip IN A 0.0.0.0

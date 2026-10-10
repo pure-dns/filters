@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20261009   ;     serial
+           20261010   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -158217,8 +158217,7 @@ realwap.net IN A 0.0.0.0
 sebar.idblognetwork.com IN A 0.0.0.0
 villainoussession.com IN A 0.0.0.0
 vkwaeo.com IN A 0.0.0.0
-388hero.bio IN A 0.0.0.0
-akseskaiko.cam IN A 0.0.0.0
+access.kaiko.cam IN A 0.0.0.0
 archivehub.com.ng IN A 0.0.0.0
 bandarxl.bio IN A 0.0.0.0
 bergurukecina.fun IN A 0.0.0.0
@@ -158233,10 +158232,8 @@ goid.space IN A 0.0.0.0
 goratu.site IN A 0.0.0.0
 injd.site IN A 0.0.0.0
 inshorturl.com IN A 0.0.0.0
-kegz.site IN A 0.0.0.0
 klik.zeus.fun IN A 0.0.0.0
 klik4.me IN A 0.0.0.0
-menujupenta.site IN A 0.0.0.0
 moneyfree.co IN A 0.0.0.0
 nf.diamberproetid.com IN A 0.0.0.0
 orangarab.fun IN A 0.0.0.0
@@ -158250,7 +158247,6 @@ rts.gdn IN A 0.0.0.0
 safelinkearn.com IN A 0.0.0.0
 sbobet.host IN A 0.0.0.0
 scripts.jixie.media IN A 0.0.0.0
-shortbioo.com IN A 0.0.0.0
 statics1.tceru134gsur.ru IN A 0.0.0.0
 sv.sleeklyyallaer.com IN A 0.0.0.0
 tambakbet.vip IN A 0.0.0.0
@@ -158270,6 +158266,7 @@ actionpoker.com IN A 0.0.0.0
 adroitdeceitcongestion.com IN A 0.0.0.0
 afapoker.com IN A 0.0.0.0
 ajar-poet.com IN A 0.0.0.0
+aksesin.top IN A 0.0.0.0
 allvegaspoker.com IN A 0.0.0.0
 anaktogel.com IN A 0.0.0.0
 aosbobet.com IN A 0.0.0.0
@@ -158298,6 +158295,7 @@ caramenangtogel.com IN A 0.0.0.0
 casinoclubpoker.com IN A 0.0.0.0
 cdn.assetcsn.site IN A 0.0.0.0
 cdpoker.com IN A 0.0.0.0
+cek.to IN A 0.0.0.0
 celebpoker.com IN A 0.0.0.0
 chilipoker.com IN A 0.0.0.0
 coolhandpoker.com IN A 0.0.0.0
@@ -158312,7 +158310,6 @@ delapantogel.com IN A 0.0.0.0
 deltatoto.com IN A 0.0.0.0
 dewijudi.com IN A 0.0.0.0
 dewitogel.com IN A 0.0.0.0
-dooods.pro IN A 0.0.0.0
 dutatoto.com IN A 0.0.0.0
 dwabt.pro IN A 0.0.0.0
 dwagg.me IN A 0.0.0.0
@@ -158322,6 +158319,8 @@ europoker.com IN A 0.0.0.0
 everypoker.com IN A 0.0.0.0
 feltpoker.com IN A 0.0.0.0
 file-assist.xuzor.com IN A 0.0.0.0
+gacor.vin IN A 0.0.0.0
+gacor.zone IN A 0.0.0.0
 gembul.xyz IN A 0.0.0.0
 gentingpoker.com IN A 0.0.0.0
 goldentigerpoker.com IN A 0.0.0.0
@@ -158346,7 +158345,9 @@ judionlinebet.com IN A 0.0.0.0
 judionlinepoker.com IN A 0.0.0.0
 k7poker.com IN A 0.0.0.0
 kedaijudi.com IN A 0.0.0.0
+kegz.site IN A 0.0.0.0
 kingtogel.com IN A 0.0.0.0
+klik.top IN A 0.0.0.0
 launchpoker.com IN A 0.0.0.0
 lazacasino.com IN A 0.0.0.0
 linkjalur.vip IN A 0.0.0.0
@@ -158359,6 +158360,7 @@ markastogel.com IN A 0.0.0.0
 masterjudi.blog.com IN A 0.0.0.0
 masterjudi.com IN A 0.0.0.0
 maxbetqq.net IN A 0.0.0.0
+menujupenta.site IN A 0.0.0.0
 mickeypoker.com IN A 0.0.0.0
 mintedpoker.com IN A 0.0.0.0
 misterindo.net IN A 0.0.0.0
@@ -158444,6 +158446,7 @@ surgajudi.com IN A 0.0.0.0
 suvtub.id IN A 0.0.0.0
 switchpoker.com IN A 0.0.0.0
 t2m.io IN A 0.0.0.0
+tajir.la IN A 0.0.0.0
 tangkas99.com IN A 0.0.0.0
 taruhanbetting.com IN A 0.0.0.0
 taruhancasino.com IN A 0.0.0.0
