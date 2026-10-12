@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20261011   ;     serial
+           20261012   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -158219,6 +158219,7 @@ villainoussession.com IN A 0.0.0.0
 vkwaeo.com IN A 0.0.0.0
 access.kaiko.cam IN A 0.0.0.0
 archivehub.com.ng IN A 0.0.0.0
+atgroup-link.id IN A 0.0.0.0
 bandarxl.bio IN A 0.0.0.0
 bergurukecina.fun IN A 0.0.0.0
 bisnis4d.bio IN A 0.0.0.0
@@ -158230,10 +158231,12 @@ enakslot.bio IN A 0.0.0.0
 gaza-88.com IN A 0.0.0.0
 goid.space IN A 0.0.0.0
 goratu.site IN A 0.0.0.0
+huntfishbrag.store IN A 0.0.0.0
 injd.site IN A 0.0.0.0
 inshorturl.com IN A 0.0.0.0
 klik.zeus.fun IN A 0.0.0.0
 klik4.me IN A 0.0.0.0
+layarotaku.id IN A 0.0.0.0
 moneyfree.co IN A 0.0.0.0
 nf.diamberproetid.com IN A 0.0.0.0
 orangarab.fun IN A 0.0.0.0
@@ -158288,7 +158291,6 @@ bio.wgauhh.xyz IN A 0.0.0.0
 biotogel.com IN A 0.0.0.0
 blindbetpoker.com IN A 0.0.0.0
 bojo.rajatravel.online IN A 0.0.0.0
-bolakami-banner-tracker.bolakami.workers.dev IN A 0.0.0.0
 breedsmuteexams.com IN A 0.0.0.0
 bursajudibola.com IN A 0.0.0.0
 caramenangtogel.com IN A 0.0.0.0
@@ -158418,7 +158420,6 @@ promosi.mul7.com IN A 0.0.0.0
 promosi.mwn7.com IN A 0.0.0.0
 promosi.snsa7.com IN A 0.0.0.0
 promosi.wfgg7.com IN A 0.0.0.0
-pub-ee3a5bccda2d49c7bbc62bd60d648707.r2.dev IN A 0.0.0.0
 pusatjudibola.com IN A 0.0.0.0
 pvpmetavip.com IN A 0.0.0.0
 rajapoker88.com IN A 0.0.0.0
