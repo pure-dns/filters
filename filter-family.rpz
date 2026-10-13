@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20261012   ;     serial
+           20261013   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -158353,6 +158353,7 @@ klik.top IN A 0.0.0.0
 launchpoker.com IN A 0.0.0.0
 lazacasino.com IN A 0.0.0.0
 linkjalur.vip IN A 0.0.0.0
+linkol.xyz IN A 0.0.0.0
 lockerimage.com IN A 0.0.0.0
 login.ashk7.com IN A 0.0.0.0
 lotospoker.com IN A 0.0.0.0
