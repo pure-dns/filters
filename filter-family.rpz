@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20261016   ;     serial
+           20261017   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -159315,7 +159315,6 @@ ad-loupe.com IN A 0.0.0.0
 addesigner.com IN A 0.0.0.0
 adeumssp.com IN A 0.0.0.0
 adreach.co IN A 0.0.0.0
-ads.d21.media IN A 0.0.0.0
 ads.indosatooredoo.com IN A 0.0.0.0
 ads.telkomsel.com IN A 0.0.0.0
 adsbingo.com IN A 0.0.0.0
@@ -159396,11 +159395,8 @@ flexterkita.com IN A 0.0.0.0
 gaslah.my.id IN A 0.0.0.0
 iwtserve.com IN A 0.0.0.0
 jagoiklan.com IN A 0.0.0.0
-lokeriklan.com IN A 0.0.0.0
 mousheen.net IN A 0.0.0.0
-premiumproven.com IN A 0.0.0.0
 realwap.net IN A 0.0.0.0
-sebar.idblognetwork.com IN A 0.0.0.0
 villainoussession.com IN A 0.0.0.0
 vkwaeo.com IN A 0.0.0.0
 access.kaiko.cam IN A 0.0.0.0
