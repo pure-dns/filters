@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20261022   ;     serial
+           20261023   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -157381,6 +157381,7 @@ offwardscraps.com IN A 0.0.0.0
 online5poker.com IN A 0.0.0.0
 onlinepoker66.com IN A 0.0.0.0
 orangarab.fun IN A 0.0.0.0
+ozlinedsp.com IN A 0.0.0.0
 pacificpoker.com IN A 0.0.0.0
 pkr-88.com IN A 0.0.0.0
 planettoto.com IN A 0.0.0.0
@@ -157502,6 +157503,7 @@ whelmlegge.com IN A 0.0.0.0
 wigobet.com IN A 0.0.0.0
 win25keren.store IN A 0.0.0.0
 xjudi.com IN A 0.0.0.0
+yetansd.com IN A 0.0.0.0
 yourpokercash.com IN A 0.0.0.0
 yu.befitkersey.com IN A 0.0.0.0
 zonaportal.org IN A 0.0.0.0
