@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20261023   ;     serial
+           20261024   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -71526,6 +71526,7 @@ etoads.net IN A 0.0.0.0
 forumiklan.com IN A 0.0.0.0
 groupiklan.com IN A 0.0.0.0
 gudangbanner.com IN A 0.0.0.0
+gummy-debt.com IN A 0.0.0.0
 halal.ad IN A 0.0.0.0
 hitadsmedia.com IN A 0.0.0.0
 ibnads.xl.co.id IN A 0.0.0.0
