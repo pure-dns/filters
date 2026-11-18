@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20261117   ;     serial
+           20261118   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -76126,7 +76126,6 @@ adskom.com IN A 0.0.0.0
 adslop.com IN A 0.0.0.0
 adstarsmedia.co.id IN A 0.0.0.0
 ampclicks.com IN A 0.0.0.0
-bellaads.com IN A 0.0.0.0
 berangkasilmu.com IN A 0.0.0.0
 cdnasiaclub.com IN A 0.0.0.0
 cfs.uzone.id IN A 0.0.0.0
@@ -76196,7 +76195,6 @@ dairouzy.net IN A 0.0.0.0
 doathair.com IN A 0.0.0.0
 edomz.com IN A 0.0.0.0
 filebanner.com IN A 0.0.0.0
-flexterkita.com IN A 0.0.0.0
 gaslah.my.id IN A 0.0.0.0
 iwtserve.com IN A 0.0.0.0
 jagoiklan.com IN A 0.0.0.0
@@ -76204,7 +76202,6 @@ mousheen.net IN A 0.0.0.0
 realwap.net IN A 0.0.0.0
 villainoussession.com IN A 0.0.0.0
 vkwaeo.com IN A 0.0.0.0
-access.kaiko.cam IN A 0.0.0.0
 archivehub.com.ng IN A 0.0.0.0
 atgroup-link.id IN A 0.0.0.0
 bergurukecina.fun IN A 0.0.0.0
