@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20261121   ;     serial
+           20261122   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -76189,17 +76189,23 @@ webiklan.com IN A 0.0.0.0
 9eb10b7a3d04a.com IN A 0.0.0.0
 ads.mssb.cloud IN A 0.0.0.0
 afbcashidr.com IN A 0.0.0.0
+aurum.tirto.id IN A 0.0.0.0
 bondeddarkenedswerve.com IN A 0.0.0.0
 brand.ad IN A 0.0.0.0
 dairouzy.net IN A 0.0.0.0
+decafeligiblyhad.com IN A 0.0.0.0
 doathair.com IN A 0.0.0.0
 edomz.com IN A 0.0.0.0
 filebanner.com IN A 0.0.0.0
+gajukogyxywahu.com IN A 0.0.0.0
 gaslah.my.id IN A 0.0.0.0
 iwtserve.com IN A 0.0.0.0
 jagoiklan.com IN A 0.0.0.0
 mousheen.net IN A 0.0.0.0
+push.cnnindonesia.com IN A 0.0.0.0
 realwap.net IN A 0.0.0.0
+rfesgftfefdesrfewsterwtfgewtfe.store IN A 0.0.0.0
+theme-sphere.com IN A 0.0.0.0
 villainoussession.com IN A 0.0.0.0
 vkwaeo.com IN A 0.0.0.0
 archivehub.com.ng IN A 0.0.0.0
