@@ -1,6 +1,6 @@
 $TTL 60
 @    IN    SOA        localhost.  filters.puredns.org.  (
-           20261124   ;     serial
+           20261125   ;     serial
            2w         ;     refresh
            2w         ;     retry
            2w         ;     expiry
@@ -81773,7 +81773,9 @@ gajukogyxywahu.com IN A 0.0.0.0
 gaslah.my.id IN A 0.0.0.0
 iwtserve.com IN A 0.0.0.0
 jagoiklan.com IN A 0.0.0.0
+motionless-bus.com IN A 0.0.0.0
 mousheen.net IN A 0.0.0.0
+prizefamily.com IN A 0.0.0.0
 push.cnnindonesia.com IN A 0.0.0.0
 realwap.net IN A 0.0.0.0
 rfesgftfefdesrfewsterwtfgewtfe.store IN A 0.0.0.0
